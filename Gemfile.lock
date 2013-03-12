@@ -1,0 +1,29 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    addressable (2.3.3)
+    daemons (1.1.9)
+    em-http-request (0.3.0)
+      addressable (>= 2.0.0)
+      escape_utils
+      eventmachine (>= 0.12.9)
+    escape_utils (0.3.2)
+    eventmachine (0.12.10)
+    hipbot (0.1.0)
+      active_support (~> 3.0.0)
+      daemons (~> 1.1.8)
+      em-http-request (~> 0.3.0)
+      eventmachine (~> 0.12.10)
+      i18n (~> 0.6.0)
+      xmpp4r (~> 0.5)
+    i18n (0.6.4)
+    xmpp4r (0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hipbot (~> 0.1.0)

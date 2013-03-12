@@ -1,1 +1,1 @@
-Hubot da Myfreecomm (teste)
+Hipbot da Myfreecomm (teste)

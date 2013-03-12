@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n Hubot
+web: bundle exec hipbot run
