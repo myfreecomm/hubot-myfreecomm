@@ -1,1 +1,1 @@
-web: bundle exec hipbot run
+worker: bundle exec hipbot run

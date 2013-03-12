@@ -12,6 +12,8 @@ GEM
       eventmachine (>= 0.12.9)
     escape_utils (0.3.2)
     eventmachine (0.12.10)
+    foreman (0.62.0)
+      thor (>= 0.13.6)
     hipbot (0.1.0)
       active_support (~> 3.0.0)
       daemons (~> 1.1.8)
@@ -20,10 +22,12 @@ GEM
       i18n (~> 0.6.0)
       xmpp4r (~> 0.5)
     i18n (0.6.4)
+    thor (0.17.0)
     xmpp4r (0.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  foreman (~> 0.62.0)
   hipbot (~> 0.1.0)
